@@ -7,10 +7,8 @@ https://tinyurl.com/Khich-TiVi-KSP1-LIVE-mpd?key/playlist.mpegts
 https://tinyurl.com/Khichtivi8-KSP2-LIVE?key/playlist.mpegts 
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/nsqLqgK4/khich-Ti-Vi-KSP3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3🔓 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU1JXQlc0Q1pMNzhIck91UXYxMGVsS1pzYlc4c3diVUVxZ3Y3UGlUdkFCY009/khichtv/fhwuw@4216/playlist.mpegts
+https://tinyurl.com/KhichTiVi80ksp3-LIVE?key/playlist.mpegts
 #EXTINF:-1 tvg-id="kactionhd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/20yC1Qh7/kh-ch-Ti-Vi-KSP4.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP4🔓 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29KYUhFbnRHaHZWVU1sOFRtZGdrWmwya0ljK2JiRERJS0IvYVMzVnQwd1E9/khichtv/fhwuw@4216/playlist.mpegts
+https://tinyurl.com/KhichTiVi-80-ksp4-LIVE?key/playlist.mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://i.ibb.co/7xCD6KJy/khich-Ti-Vi-KSP5.jpg",Khích Tivi K+SP5🔓 FHD
-#EXTVLCOPT:http-user-agent="KhichTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2pHSm8vMWlDMXhSM3huNmhERWE3T1JrNTVzaDRvK1M2Z0Rac000a2lxcWc9/khichtv/fhwuw@4216/playlist.mpegts
