@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF:0tvg-id="ksport1hd"group-title="THỬ NHIỆM-KhichTV" tvg-logo="https://i.ibb.co/xtc2fb5F/khich-Ti-Vi-KSP1.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi K+SP1🔓 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29uWGZGMUFzdDZXQUlzaGpSYXJib2ZXOUpKSDFOZGo3dU91MnlOMmZlZUk9/khichtv/fhwuw@4216/playlist.mpegts
+https://tinyurl.com/Khich-TiVi-KSP1-LIVE-mpd?key/playlist.mpegts
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2🔓 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2VTOW9IMG1NcjMrWkJtWnU2RXFzeHNpeEIzU2gxMkh6T3NQeG9aZEV6TUU9/khichtv/fhwuw@4216/playlist.mpegts 
